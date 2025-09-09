@@ -15,9 +15,9 @@ Kannon è un servizio **open-source** per l'invio massivo di email, pensato per 
 - ✅ Progettato e sviluppato in 🇮🇹, pensato per 🇪🇺
 
 ###
-
+---
 Stai costruendo qualcosa di interessante? Fammelo sapere se vorresti utilizzare Kannon in una [sessione uno a uno](https://bit.ly/parla-con-ludo) con me.
-
+---
 ###
 
 ## Getting Started
